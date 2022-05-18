@@ -1,6 +1,6 @@
 .rectangle{
     box-sizing: content-box;
-    margin: 100px 50px;
+    margin: 50px 100px ;
     padding: 20px;
     background-color: bisque;
     border-bottom: 10px dashed burlywood;
